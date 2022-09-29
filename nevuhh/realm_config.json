@@ -1,0 +1,8 @@
+{
+    "app_id": "nevuhh-erenz",
+    "config_version": 20210101,
+    "name": "nevuhh",
+    "location": "US-VA",
+    "provider_region": "aws-us-east-1",
+    "deployment_model": "LOCAL"
+}
